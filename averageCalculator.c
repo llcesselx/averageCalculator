@@ -5,9 +5,9 @@ int main() {
     float sum = 0;
     float count = 0;
 
-    /*
-     * Takes integers, one by one, totals it to sum and then divides by count for the average.
-     */
+    /* Takes integers, one by one, totals it to sum and
+     * then divides by count for the average.*/
+
     while(num != 9999){
         printf("Enter integer (Enter 9999 when done):");
         scanf("%d", &num);
